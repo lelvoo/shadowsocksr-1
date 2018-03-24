@@ -6,7 +6,7 @@
     "local_port": 1080,
 
     "password": "m",
-    "method": "aes-192-ctr",
+    "method": "aes-128-ctr",
     "protocol": "auth_sha1_v4_compatible",
     "protocol_param": "",
     "obfs": "tls1.2_ticket_auth_compatible",
